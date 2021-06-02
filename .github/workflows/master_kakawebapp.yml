@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'kakawebapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ab45133ba6094dea9f781fb01b08ea7c }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3741e44f47da43e0a46d23eb2bd0f8c6 }}
         package: .
